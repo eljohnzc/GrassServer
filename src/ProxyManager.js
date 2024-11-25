@@ -4,7 +4,7 @@ const fs = require('fs')
 const logger = require('./logger')
 
 const PROXY_SOURCES = {
-  'SERVER 1': 'https://raw.githubusercontent.com/eljohnzc/multi-bin-gen/refs/heads/main/socks5.txt',
+  'SERVER 1': 'https://raw.githubusercontent.com/eljohnzc/GrassServer/refs/heads/main/src/proxy.txt',
   'SERVER 2': 'https://files.ramanode.top/airdrop/grass/server_2.txt',
   'SERVER 3': 'https://files.ramanode.top/airdrop/grass/server_3.txt',
   'SERVER 4': 'https://files.ramanode.top/airdrop/grass/server_4.txt',
